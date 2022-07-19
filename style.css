@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner p{
+    font-weight: 100;
+    width: 488px;
+    line-height: 35px;
+    color: #707070;
+}
+.btn{
+    font-weight: 600;
+    padding: 10px 20px;
+}
+.banner h2{
+    font-weight: 600;
+}
+.banner p{
+    padding: 20px 0px;
+}
+.smartphone{
+    padding: 100px 0px 0px 0px;
+}
+.smartphone h4{
+    font-weight: 600;
+}
+.smartphone-seeAll{
+    padding: 0px 0px 50px 0px;
+}
+.smartphone a{
+    color: #FF9D00;
+}
+.smartphone img{
+    width: 280px;
+    height: 280px;
+    margin: auto;
+}
+.card-body{
+    text-align: center;
+}
+.card-body h5{
+    font-weight: 600;
+    padding: 20px 0px 5px 0px;
+}
+.card-body p{
+    width: 286px;
+    margin: auto;
+}
+.iPhone, .Galaxy, .Redmi{
+    padding: 50px 0px;
+    border: none;
+    box-shadow: 1px 1px 30px rgb(236, 236, 236);
+}
+.categories{
+    padding: 150px 0px 100px 0px;
+}
+.categories h3{
+    font-weight: 600;
+    text-align: center;
+}
+.cat{
+    padding: 0px 0px 100px 0px;
+}
+.item{
+    width: 296px;
+    height: 314px;
+    background-color: white;
+    box-shadow: 1px 1px 30px rgb(236, 236, 236);
+    padding: 60px 0px 0px 0px;
+}
+.item h4{
+    font-weight: 600;
+    text-align: center;
+}
+.item img{
+    display: block;
+    margin: auto;
+    padding: 0px 0px 20px 0px;
+}
+.bag-center{
+    padding: 50px 0px 0px 0px;
+}
+.bag{
+    border-radius: 10px 10px 10px 30px;
+}
+.beauty{
+    border-radius: 10px 10px 30px 10px;
+}
+.shoe{
+    border-radius: 10px 10px 30px 10px;
+}
+.shoe-cat{
+    padding: 15px 0px 0px 0px;
+}
